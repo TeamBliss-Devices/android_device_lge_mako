@@ -6,9 +6,9 @@
     "revision": "cm-12.1"
   },
   {
-    "remote": "github",
-    "repository":  "CyanogenMod/android_kernel_google_msm",
+    "remote": "TeamBliss-Devices",
+    "repository":  "android_kernel_google_msm",
     "target_path": "kernel/google/msm",
-    "revision": "cm-12.1"
+    "revision": "lp5.1"
   }
 ]
