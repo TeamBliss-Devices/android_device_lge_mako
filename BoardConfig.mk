@@ -165,8 +165,8 @@ BOARD_HARDWARE_CLASS := device/lge/mako/cmhw/
 WITH_LZMA_OTA := true
 
 # BlissPop Config Flags
-TARGET_TC_ROM := 5.1-linaro
-TARGET_TC_KERNEL := 5.1-linaro
+TARGET_TC_ROM := 5.2-linaro
+TARGET_TC_KERNEL := 5.2-linaro
 BLISSIFY := true
 BLISS_O3 := true
 BLISS_STRICT := true
